@@ -5,9 +5,8 @@ class Solution {
             if(i%2==0){
                 answer += "수";
             }
-            else{
+            else
                 answer+="박";
-            }
         }
         return answer;
     }
